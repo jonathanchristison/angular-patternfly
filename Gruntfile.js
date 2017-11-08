@@ -168,7 +168,7 @@ module.exports = function (grunt) {
           image: 'misc/logo-alt.svg',
           scripts: [
             'node_modules/jquery/dist/jquery.js',
-            'node_modules/components-jqueryui/jquery-ui.min.js',
+            'node_modules/jquery-ui/ui/core.js',
             'node_modules/datatables.net/js/jquery.dataTables.js',
             'node_modules/datatables.net-select/js/dataTables.select.js',
             'node_modules/moment/moment.js',
